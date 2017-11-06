@@ -1,3 +1,9 @@
 # PerfectOrder
 
-This is the tool that alert you when the chart generates "the perfect order".
+これはいわゆるパーフェクトオーダーの状態を知らせるアラートツールです。
+
+# 設定方法
+
+ex4ファイルをお使いのMT4の「MQL4 > Experts」フォルダに入れてください。
+
+後は、エキスパートアドバイザーの設定と同じです。
